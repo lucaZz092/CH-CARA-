@@ -1,0 +1,8 @@
+{
+  "name": "Chácara Santa Clara",
+  "description": "Site para aluguel da Chácara Santa Clara com reservas e contato direto por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
